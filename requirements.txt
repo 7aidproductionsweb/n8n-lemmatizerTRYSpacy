@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+spacy
+# Lien direct vers le modèle SpaCy "transformer"
+https://github.com/explosion/spacy-models/releases/download/fr_dep_news_trf-3.7.0/fr_dep_news_trf-3.7.0-py3-none-any.whl
